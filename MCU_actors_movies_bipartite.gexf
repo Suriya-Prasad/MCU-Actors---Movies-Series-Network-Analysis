@@ -23,7 +23,7 @@
           <attvalue for="0" value="Actors" />
         </attvalues>
       </node>
-      <node id="Chadwick Boseman" label="Chadwick Boseman">
+      <node id="will.i.am" label="will.i.am">
         <attvalues>
           <attvalue for="0" value="Actors" />
         </attvalues>
@@ -53,7 +53,7 @@
           <attvalue for="0" value="Actors" />
         </attvalues>
       </node>
-      <node id="Chris Patt" label="Chris Patt">
+      <node id="Julian Dennison" label="Julian Dennison">
         <attvalues>
           <attvalue for="0" value="Actors" />
         </attvalues>
