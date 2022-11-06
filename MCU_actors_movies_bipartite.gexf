@@ -7,68 +7,69 @@
     <attributes mode="static" class="node">
       <attribute id="0" title="bipartite" type="string" />
       <attribute id="1" title="Iron Man" type="long" />
-      <attribute id="2" title="The incredible Hulk" type="long" />
-      <attribute id="3" title="Iron Man 2" type="long" />
-      <attribute id="4" title="Thor" type="long" />
-      <attribute id="5" title="Captain America: The first Avenger" type="long" />
-      <attribute id="6" title="Marvel's the Avengers" type="long" />
-      <attribute id="7" title="Iron Man 3" type="long" />
-      <attribute id="8" title="Thor: The dark world" type="long" />
-      <attribute id="9" title="Captain America : The Winter Soldier" type="long" />
-      <attribute id="10" title="Guardians Of the Galaxy" type="long" />
-      <attribute id="11" title="Avengers : Age of Ultron" type="long" />
-      <attribute id="12" title="Ant-Man" type="long" />
-      <attribute id="13" title="Captain America: Civil War" type="long" />
-      <attribute id="14" title="Doctor Strange" type="long" />
-      <attribute id="15" title="Guardians of the Galaxy Vol. 2" type="long" />
-      <attribute id="16" title="Spider-Man:Homecoming" type="long" />
-      <attribute id="17" title="Thor:Ragnarok" type="long" />
-      <attribute id="18" title="Black Panther" type="long" />
-      <attribute id="19" title="Avengers: Infinity War" type="long" />
-      <attribute id="20" title="Ant-Man and the Wasp" type="long" />
-      <attribute id="21" title="Captain-Marvel" type="long" />
-      <attribute id="22" title="Avengers:Endgame" type="long" />
-      <attribute id="23" title="Spider-Man:Far From Home" type="long" />
-      <attribute id="24" title="Black Widow" type="long" />
-      <attribute id="25" title="Shang-Chi and the Legend of the Ten Rings" type="long" />
-      <attribute id="26" title="Eternals" type="long" />
-      <attribute id="27" title="Spider-Man: No Way Home" type="long" />
-      <attribute id="28" title="Doctor Strange in the Multiverse of Madness" type="long" />
-      <attribute id="29" title="Thor: Love and Thunder" type="long" />
-      <attribute id="30" title="Werewolf by Night" type="long" />
-      <attribute id="31" title="Marvels' Agents of S.H.I.E.L.D." type="long" />
-      <attribute id="32" title="Marvel's Agent Carter" type="long" />
-      <attribute id="33" title="Marvels's Daredevil" type="long" />
-      <attribute id="34" title="Marvel - Jessica Jones" type="long" />
-      <attribute id="35" title="Marvel's Luke Cage" type="long" />
-      <attribute id="36" title="Marvel's Iron Fist" type="long" />
-      <attribute id="37" title="Marvel - The Defenders" type="long" />
-      <attribute id="38" title="Inhumans" type="long" />
-      <attribute id="39" title="Marvel's The Punisher" type="long" />
-      <attribute id="40" title="Marvel's Runaways" type="long" />
-      <attribute id="41" title="Cloak &amp; Dagger" type="long" />
-      <attribute id="42" title="Marvel Studios Legends" type="long" />
-      <attribute id="43" title="WandaVision" type="long" />
-      <attribute id="44" title="The Falcon and the Winter Soldier" type="long" />
-      <attribute id="45" title="Loki" type="long" />
-      <attribute id="46" title="What If...?" type="long" />
-      <attribute id="47" title="Hawkeye" type="long" />
-      <attribute id="48" title="Moon Knight" type="long" />
-      <attribute id="49" title="Ms. Marvel" type="long" />
-      <attribute id="50" title="She-Hulk: Attorney at Law" type="long" />
-      <attribute id="51" title="X-Men" type="long" />
-      <attribute id="52" title="X2" type="long" />
-      <attribute id="53" title="X-Men: The Last Stand" type="long" />
-      <attribute id="54" title="X-Men Origins: Wolverine" type="long" />
-      <attribute id="55" title="X-Men: First Class" type="long" />
-      <attribute id="56" title="The Wolverine" type="long" />
-      <attribute id="57" title="X-Men: Days of Future Past" type="long" />
-      <attribute id="58" title="Deadpool" type="long" />
-      <attribute id="59" title="X-Men: Apocalypse" type="long" />
-      <attribute id="60" title="Logan" type="long" />
-      <attribute id="61" title="Deadpool 2" type="long" />
-      <attribute id="62" title="Dark Phoenix" type="long" />
-      <attribute id="63" title="The New Mutants" type="long" />
+      <attribute id="2" title="rating" type="long" />
+      <attribute id="3" title="The incredible Hulk" type="long" />
+      <attribute id="4" title="Iron Man 2" type="long" />
+      <attribute id="5" title="Thor" type="long" />
+      <attribute id="6" title="Captain America: The first Avenger" type="long" />
+      <attribute id="7" title="Marvel's the Avengers" type="long" />
+      <attribute id="8" title="Iron Man 3" type="long" />
+      <attribute id="9" title="Thor: The dark world" type="long" />
+      <attribute id="10" title="Captain America : The Winter Soldier" type="long" />
+      <attribute id="11" title="Guardians Of the Galaxy" type="long" />
+      <attribute id="12" title="Avengers : Age of Ultron" type="long" />
+      <attribute id="13" title="Ant-Man" type="long" />
+      <attribute id="14" title="Captain America: Civil War" type="long" />
+      <attribute id="15" title="Doctor Strange" type="long" />
+      <attribute id="16" title="Guardians of the Galaxy Vol. 2" type="long" />
+      <attribute id="17" title="Spider-Man:Homecoming" type="long" />
+      <attribute id="18" title="Thor:Ragnarok" type="long" />
+      <attribute id="19" title="Black Panther" type="long" />
+      <attribute id="20" title="Avengers: Infinity War" type="long" />
+      <attribute id="21" title="Ant-Man and the Wasp" type="long" />
+      <attribute id="22" title="Captain-Marvel" type="long" />
+      <attribute id="23" title="Avengers:Endgame" type="long" />
+      <attribute id="24" title="Spider-Man:Far From Home" type="long" />
+      <attribute id="25" title="Black Widow" type="long" />
+      <attribute id="26" title="Shang-Chi and the Legend of the Ten Rings" type="long" />
+      <attribute id="27" title="Eternals" type="long" />
+      <attribute id="28" title="Spider-Man: No Way Home" type="long" />
+      <attribute id="29" title="Doctor Strange in the Multiverse of Madness" type="long" />
+      <attribute id="30" title="Thor: Love and Thunder" type="long" />
+      <attribute id="31" title="Werewolf by Night" type="long" />
+      <attribute id="32" title="Marvels' Agents of S.H.I.E.L.D." type="long" />
+      <attribute id="33" title="Marvel's Agent Carter" type="long" />
+      <attribute id="34" title="Marvels's Daredevil" type="long" />
+      <attribute id="35" title="Marvel - Jessica Jones" type="long" />
+      <attribute id="36" title="Marvel's Luke Cage" type="long" />
+      <attribute id="37" title="Marvel's Iron Fist" type="long" />
+      <attribute id="38" title="Marvel - The Defenders" type="long" />
+      <attribute id="39" title="Inhumans" type="long" />
+      <attribute id="40" title="Marvel's The Punisher" type="long" />
+      <attribute id="41" title="Marvel's Runaways" type="long" />
+      <attribute id="42" title="Cloak &amp; Dagger" type="long" />
+      <attribute id="43" title="Marvel Studios Legends" type="long" />
+      <attribute id="44" title="WandaVision" type="long" />
+      <attribute id="45" title="The Falcon and the Winter Soldier" type="long" />
+      <attribute id="46" title="Loki" type="long" />
+      <attribute id="47" title="What If...?" type="long" />
+      <attribute id="48" title="Hawkeye" type="long" />
+      <attribute id="49" title="Moon Knight" type="long" />
+      <attribute id="50" title="Ms. Marvel" type="long" />
+      <attribute id="51" title="She-Hulk: Attorney at Law" type="long" />
+      <attribute id="52" title="X-Men" type="long" />
+      <attribute id="53" title="X2" type="long" />
+      <attribute id="54" title="X-Men: The Last Stand" type="long" />
+      <attribute id="55" title="X-Men Origins: Wolverine" type="long" />
+      <attribute id="56" title="X-Men: First Class" type="long" />
+      <attribute id="57" title="The Wolverine" type="long" />
+      <attribute id="58" title="X-Men: Days of Future Past" type="long" />
+      <attribute id="59" title="Deadpool" type="long" />
+      <attribute id="60" title="X-Men: Apocalypse" type="long" />
+      <attribute id="61" title="Logan" type="long" />
+      <attribute id="62" title="Deadpool 2" type="long" />
+      <attribute id="63" title="Dark Phoenix" type="long" />
+      <attribute id="64" title="The New Mutants" type="long" />
     </attributes>
     <nodes>
       <node id="Simu Liu" label="Simu Liu">
@@ -1210,378 +1211,441 @@
         <attvalues>
           <attvalue for="0" value="Movies" />
           <attvalue for="1" value="58" />
+          <attvalue for="2" value="58" />
         </attvalues>
       </node>
       <node id="The incredible Hulk" label="The incredible Hulk">
         <attvalues>
           <attvalue for="0" value="Movies" />
+          <attvalue for="3" value="43" />
           <attvalue for="2" value="43" />
         </attvalues>
       </node>
       <node id="Iron Man 2" label="Iron Man 2">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="3" value="43" />
+          <attvalue for="4" value="43" />
+          <attvalue for="2" value="43" />
         </attvalues>
       </node>
       <node id="Thor" label="Thor">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="4" value="45" />
+          <attvalue for="5" value="45" />
+          <attvalue for="2" value="45" />
         </attvalues>
       </node>
       <node id="Captain America: The first Avenger" label="Captain America: The first Avenger">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="5" value="48" />
+          <attvalue for="6" value="48" />
+          <attvalue for="2" value="48" />
         </attvalues>
       </node>
       <node id="Marvel's the Avengers" label="Marvel's the Avengers">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="6" value="53" />
+          <attvalue for="7" value="53" />
+          <attvalue for="2" value="53" />
         </attvalues>
       </node>
       <node id="Iron Man 3" label="Iron Man 3">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="7" value="71" />
+          <attvalue for="8" value="71" />
+          <attvalue for="2" value="71" />
         </attvalues>
       </node>
       <node id="Thor: The dark world" label="Thor: The dark world">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="8" value="60" />
+          <attvalue for="9" value="60" />
+          <attvalue for="2" value="60" />
         </attvalues>
       </node>
       <node id="Captain America : The Winter Soldier" label="Captain America : The Winter Soldier">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="9" value="80" />
+          <attvalue for="10" value="80" />
+          <attvalue for="2" value="80" />
         </attvalues>
       </node>
       <node id="Guardians Of the Galaxy" label="Guardians Of the Galaxy">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="10" value="84" />
+          <attvalue for="11" value="84" />
+          <attvalue for="2" value="84" />
         </attvalues>
       </node>
       <node id="Avengers : Age of Ultron" label="Avengers : Age of Ultron">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="11" value="71" />
+          <attvalue for="12" value="71" />
+          <attvalue for="2" value="71" />
         </attvalues>
       </node>
       <node id="Ant-Man" label="Ant-Man">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="12" value="74" />
+          <attvalue for="13" value="74" />
+          <attvalue for="2" value="74" />
         </attvalues>
       </node>
       <node id="Captain America: Civil War" label="Captain America: Civil War">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="13" value="83" />
+          <attvalue for="14" value="83" />
+          <attvalue for="2" value="83" />
         </attvalues>
       </node>
       <node id="Doctor Strange" label="Doctor Strange">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="14" value="81" />
+          <attvalue for="15" value="81" />
+          <attvalue for="2" value="81" />
         </attvalues>
       </node>
       <node id="Guardians of the Galaxy Vol. 2" label="Guardians of the Galaxy Vol. 2">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="15" value="76" />
+          <attvalue for="16" value="76" />
+          <attvalue for="2" value="76" />
         </attvalues>
       </node>
       <node id="Spider-Man:Homecoming" label="Spider-Man:Homecoming">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="16" value="83" />
+          <attvalue for="17" value="83" />
+          <attvalue for="2" value="83" />
         </attvalues>
       </node>
       <node id="Thor:Ragnarok" label="Thor:Ragnarok">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="17" value="84" />
+          <attvalue for="18" value="84" />
+          <attvalue for="2" value="84" />
         </attvalues>
       </node>
       <node id="Black Panther" label="Black Panther">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="18" value="92" />
+          <attvalue for="19" value="92" />
+          <attvalue for="2" value="92" />
         </attvalues>
       </node>
       <node id="Avengers: Infinity War" label="Avengers: Infinity War">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="19" value="77" />
+          <attvalue for="20" value="77" />
+          <attvalue for="2" value="77" />
         </attvalues>
       </node>
       <node id="Ant-Man and the Wasp" label="Ant-Man and the Wasp">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="20" value="79" />
+          <attvalue for="21" value="79" />
+          <attvalue for="2" value="79" />
         </attvalues>
       </node>
       <node id="Captain-Marvel" label="Captain-Marvel">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="21" value="72" />
+          <attvalue for="22" value="72" />
+          <attvalue for="2" value="72" />
         </attvalues>
       </node>
       <node id="Avengers:Endgame" label="Avengers:Endgame">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="22" value="86" />
+          <attvalue for="23" value="86" />
+          <attvalue for="2" value="86" />
         </attvalues>
       </node>
       <node id="Spider-Man:Far From Home" label="Spider-Man:Far From Home">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="23" value="80" />
+          <attvalue for="24" value="80" />
+          <attvalue for="2" value="80" />
         </attvalues>
       </node>
       <node id="Black Widow" label="Black Widow">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="24" value="73" />
+          <attvalue for="25" value="73" />
+          <attvalue for="2" value="73" />
         </attvalues>
       </node>
       <node id="Shang-Chi and the Legend of the Ten Rings" label="Shang-Chi and the Legend of the Ten Rings">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="25" value="81" />
+          <attvalue for="26" value="81" />
+          <attvalue for="2" value="81" />
         </attvalues>
       </node>
       <node id="Eternals" label="Eternals">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="26" value="50" />
+          <attvalue for="27" value="50" />
+          <attvalue for="2" value="50" />
         </attvalues>
       </node>
       <node id="Spider-Man: No Way Home" label="Spider-Man: No Way Home">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="27" value="82" />
+          <attvalue for="28" value="82" />
+          <attvalue for="2" value="82" />
         </attvalues>
       </node>
       <node id="Doctor Strange in the Multiverse of Madness" label="Doctor Strange in the Multiverse of Madness">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="28" value="67" />
+          <attvalue for="29" value="67" />
+          <attvalue for="2" value="67" />
         </attvalues>
       </node>
       <node id="Thor: Love and Thunder" label="Thor: Love and Thunder">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="29" value="61" />
+          <attvalue for="30" value="61" />
+          <attvalue for="2" value="61" />
         </attvalues>
       </node>
       <node id="Werewolf by Night" label="Werewolf by Night">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="30" value="77" />
+          <attvalue for="31" value="77" />
+          <attvalue for="2" value="77" />
         </attvalues>
       </node>
       <node id="Marvels' Agents of S.H.I.E.L.D." label="Marvels' Agents of S.H.I.E.L.D.">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="31" value="85" />
+          <attvalue for="32" value="85" />
+          <attvalue for="2" value="85" />
         </attvalues>
       </node>
       <node id="Marvel's Agent Carter" label="Marvel's Agent Carter">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="32" value="79" />
+          <attvalue for="33" value="79" />
+          <attvalue for="2" value="79" />
         </attvalues>
       </node>
       <node id="Marvels's Daredevil" label="Marvels's Daredevil">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="33" value="84" />
+          <attvalue for="34" value="84" />
+          <attvalue for="2" value="84" />
         </attvalues>
       </node>
       <node id="Marvel - Jessica Jones" label="Marvel - Jessica Jones">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="34" value="82" />
+          <attvalue for="35" value="82" />
+          <attvalue for="2" value="82" />
         </attvalues>
       </node>
       <node id="Marvel's Luke Cage" label="Marvel's Luke Cage">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="35" value="83" />
+          <attvalue for="36" value="83" />
+          <attvalue for="2" value="83" />
         </attvalues>
       </node>
       <node id="Marvel's Iron Fist" label="Marvel's Iron Fist">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="36" value="37" />
+          <attvalue for="37" value="37" />
+          <attvalue for="2" value="37" />
         </attvalues>
       </node>
       <node id="Marvel - The Defenders" label="Marvel - The Defenders">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="37" value="71" />
+          <attvalue for="38" value="71" />
+          <attvalue for="2" value="71" />
         </attvalues>
       </node>
       <node id="Inhumans" label="Inhumans">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="38" value="19" />
+          <attvalue for="39" value="19" />
+          <attvalue for="2" value="19" />
         </attvalues>
       </node>
       <node id="Marvel's The Punisher" label="Marvel's The Punisher">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="39" value="60" />
+          <attvalue for="40" value="60" />
+          <attvalue for="2" value="60" />
         </attvalues>
       </node>
       <node id="Marvel's Runaways" label="Marvel's Runaways">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="40" value="77" />
+          <attvalue for="41" value="77" />
+          <attvalue for="2" value="77" />
         </attvalues>
       </node>
       <node id="Cloak &amp; Dagger" label="Cloak &amp; Dagger">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="41" value="78" />
+          <attvalue for="42" value="78" />
+          <attvalue for="2" value="78" />
         </attvalues>
       </node>
       <node id="Marvel Studios Legends" label="Marvel Studios Legends">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="42" value="65" />
+          <attvalue for="43" value="65" />
+          <attvalue for="2" value="65" />
         </attvalues>
       </node>
       <node id="WandaVision" label="WandaVision">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="43" value="84" />
+          <attvalue for="44" value="84" />
+          <attvalue for="2" value="84" />
         </attvalues>
       </node>
       <node id="The Falcon and the Winter Soldier" label="The Falcon and the Winter Soldier">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="44" value="79" />
+          <attvalue for="45" value="79" />
+          <attvalue for="2" value="79" />
         </attvalues>
       </node>
       <node id="Loki" label="Loki">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="45" value="83" />
+          <attvalue for="46" value="83" />
+          <attvalue for="2" value="83" />
         </attvalues>
       </node>
       <node id="What If...?" label="What If...?">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="46" value="82" />
+          <attvalue for="47" value="82" />
+          <attvalue for="2" value="82" />
         </attvalues>
       </node>
       <node id="Hawkeye" label="Hawkeye">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="47" value="79" />
+          <attvalue for="48" value="79" />
+          <attvalue for="2" value="79" />
         </attvalues>
       </node>
       <node id="Moon Knight" label="Moon Knight">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="48" value="78" />
+          <attvalue for="49" value="78" />
+          <attvalue for="2" value="78" />
         </attvalues>
       </node>
       <node id="Ms. Marvel" label="Ms. Marvel">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="49" value="88" />
+          <attvalue for="50" value="88" />
+          <attvalue for="2" value="88" />
         </attvalues>
       </node>
       <node id="She-Hulk: Attorney at Law" label="She-Hulk: Attorney at Law">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="50" value="78" />
+          <attvalue for="51" value="78" />
+          <attvalue for="2" value="78" />
         </attvalues>
       </node>
       <node id="X-Men" label="X-Men">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="51" value="73" />
+          <attvalue for="52" value="73" />
+          <attvalue for="2" value="73" />
         </attvalues>
       </node>
       <node id="X2" label="X2">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="52" value="76" />
+          <attvalue for="53" value="76" />
+          <attvalue for="2" value="76" />
         </attvalues>
       </node>
       <node id="X-Men: The Last Stand" label="X-Men: The Last Stand">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="53" value="60" />
+          <attvalue for="54" value="60" />
+          <attvalue for="2" value="60" />
         </attvalues>
       </node>
       <node id="X-Men Origins: Wolverine" label="X-Men Origins: Wolverine">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="54" value="48" />
+          <attvalue for="55" value="48" />
+          <attvalue for="2" value="48" />
         </attvalues>
       </node>
       <node id="X-Men: First Class" label="X-Men: First Class">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="55" value="76" />
+          <attvalue for="56" value="76" />
+          <attvalue for="2" value="76" />
         </attvalues>
       </node>
       <node id="The Wolverine" label="The Wolverine">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="56" value="66" />
+          <attvalue for="57" value="66" />
+          <attvalue for="2" value="66" />
         </attvalues>
       </node>
       <node id="X-Men: Days of Future Past" label="X-Men: Days of Future Past">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="57" value="81" />
+          <attvalue for="58" value="81" />
+          <attvalue for="2" value="81" />
         </attvalues>
       </node>
       <node id="Deadpool" label="Deadpool">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="58" value="77" />
+          <attvalue for="59" value="77" />
+          <attvalue for="2" value="77" />
         </attvalues>
       </node>
       <node id="X-Men: Apocalypse" label="X-Men: Apocalypse">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="59" value="56" />
+          <attvalue for="60" value="56" />
+          <attvalue for="2" value="56" />
         </attvalues>
       </node>
       <node id="Logan" label="Logan">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="60" value="84" />
+          <attvalue for="61" value="84" />
+          <attvalue for="2" value="84" />
         </attvalues>
       </node>
       <node id="Deadpool 2" label="Deadpool 2">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="61" value="76" />
+          <attvalue for="62" value="76" />
+          <attvalue for="2" value="76" />
         </attvalues>
       </node>
       <node id="Dark Phoenix" label="Dark Phoenix">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="62" value="41" />
+          <attvalue for="63" value="41" />
+          <attvalue for="2" value="41" />
         </attvalues>
       </node>
       <node id="The New Mutants" label="The New Mutants">
         <attvalues>
           <attvalue for="0" value="Movies" />
-          <attvalue for="63" value="44" />
+          <attvalue for="64" value="44" />
+          <attvalue for="2" value="44" />
         </attvalues>
       </node>
     </nodes>
