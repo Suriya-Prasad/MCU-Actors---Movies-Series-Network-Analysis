@@ -1,50 +1,63 @@
-Name,IMDB,Rotten Tomatoes,MetaCritic
-Iron Man,7.9,94,79
-The incredible Hulk,6.6,67,61
-Iron Man 2,6.9,72,57
-Thor,7,77,57
-Captain America: The first Avenger,6.9,79,66
-Marvel's the Avengers,8,91,69
-Iron Man 3,7.1,79,62
-Thor: The dark world,6.8,66,54
-Captain America : The Winter Soldier,7.8,90,70
-Guardians Of the Galaxy,8,92,76
-Avengers : Age of Ultron,7.3,76,66
-Ant-Man,7.3,83,64
-Captain America: Civil War,7.8,90,75
-Doctor Strange,7.5,89,72
-Guardians of the Galaxy Vol. 2,7.6,85,67
-Spider-Man:Homecoming,7.4,92,73
-Thor:Ragnarok,7.9,93,74
-Black Panther,7.3,96,88
-Avengers: Infinity War,8.4,85,68
-Ant-Man and the Wasp,7,87,70
-Captain-Marvel,6.8,79,64
-Avengers:Endgame,8.4,94,78
-Spider-Man:Far From Home,7.4,90,69
-Black Widow,6.7,79,67
-Shang-Chi and the Legend of the Ten Rings,7.4,91,71
-Eternals,6.3,47,52
-Spider-Man: No Way Home,8.3,93,71
-Doctor Strange in the Multiverse of Madness,7,74,60
-Thor: Love and Thunder,6.5,64,57
-Marvels' Agents of S.H.I.E.L.D.,7.5,95,74
-Marvel's Agent Carter,7.9,86,72
-Marvels's Daredevil,8.6,92,75
-Marvel - Jessica Jones,7.9,83,81
-Marvel's Luke Cage,7.3,87,79
-Marvel's Iron Fist,6.4,37,37
-Marvel - The Defenders,7.2,78,63
-Inhumans,4.9,11,27
-Marvel's The Punisher,8.5,64,55
-Marvel's Runaways,6.9,85,68
-Clock and Dagger,6.6,87,68
-Marvel Studios Legends,6.5,,
-WandaVision,7.9,91,77
-The Falcon and the Winter Soldier,7.2,84,74
-Loki,8.2,92,74
-What If...?,7.4,94,69
-Hawkeye,7.5,92,66
-Moon Knight,7.3,86,69
-Ms. Marvel,6.2,97,78
-She-Hulk: Attorney at Law,5,88,67
+Iron Man,7.9,94,79,58
+The incredible Hulk,6.6,67,61,43
+Iron Man 2,6.9,72,57,43
+Thor,7,77,57,45
+Captain America: The first Avenger,6.9,79,66,48
+Marvel's the Avengers,8,91,69,53
+Iron Man 3,7.1,79,62,71
+Thor: The dark world,6.8,66,54,60
+Captain America : The Winter Soldier,7.8,90,70,80
+Guardians Of the Galaxy,8,92,76,84
+Avengers : Age of Ultron,7.3,76,66,71
+Ant-Man,7.3,83,64,74
+Captain America: Civil War,7.8,90,75,83
+Doctor Strange,7.5,89,72,81
+Guardians of the Galaxy Vol. 2,7.6,85,67,76
+Spider-Man:Homecoming,7.4,92,73,83
+Thor:Ragnarok,7.9,93,74,84
+Black Panther,7.3,96,88,92
+Avengers: Infinity War,8.4,85,68,77
+Ant-Man and the Wasp,7,87,70,79
+Captain-Marvel,6.8,79,64,72
+Avengers:Endgame,8.4,94,78,86
+Spider-Man:Far From Home,7.4,90,69,80
+Black Widow,6.7,79,67,73
+Shang-Chi and the Legend of the Ten Rings,7.4,91,71,81
+Eternals,6.3,47,52,50
+Spider-Man: No Way Home,8.3,93,71,82
+Doctor Strange in the Multiverse of Madness,7,74,60,67
+Thor: Love and Thunder,6.5,64,57,61
+Werewolf by Night,7.2,91,69,77
+Marvels' Agents of S.H.I.E.L.D.,7.5,95,74,85
+Marvel's Agent Carter,7.9,86,72,79
+Marvels's Daredevil,8.6,92,75,84
+Marvel - Jessica Jones,7.9,83,81,82
+Marvel's Luke Cage,7.3,87,79,83
+Marvel's Iron Fist,6.4,37,37,37
+Marvel - The Defenders,7.2,78,63,71
+Inhumans,4.9,11,27,19
+Marvel's The Punisher,8.5,64,55,60
+Marvel's Runaways,6.9,85,68,77
+Cloak & Dagger,6.6,87,68,78
+Marvel Studios Legends,6.5,65,65,65
+WandaVision,7.9,91,77,84
+The Falcon and the Winter Soldier,7.2,84,74,79
+Loki,8.2,92,74,83
+What If...?,7.4,94,69,82
+Hawkeye,7.5,92,66,79
+Moon Knight,7.3,86,69,78
+Ms. Marvel,6.2,97,78,88
+She-Hulk: Attorney at Law,5.1,88,67,78
+X-Men,7.3,82,64,73
+X2,7.4,85,68,76
+X-Men: The Last Stand,6.6,57,58,60
+X-Men Origins: Wolverine,6.5,38,40,48
+X-Men: First Class,7.7,86,65,76
+The Wolverine,6.7,71,61,66
+X-Men: Days of Future Past,7.9,90,75,81
+Deadpool,8,85,65,77
+X-Men: Apocalypse,6.9,47,52,56
+Logan,8.1,94,77,84
+Deadpool 2,7.7,84,66,76
+Dark Phoenix,5.7,22,43,41
+The New Mutants,5.3,35,43,44
