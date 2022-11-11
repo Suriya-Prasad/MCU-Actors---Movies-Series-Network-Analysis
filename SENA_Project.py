@@ -157,5 +157,3 @@ communities = tuple(c for c in next(comp))
 print('Communities detected : ',len(communities),end='\n\n')
 for i in communities:
     print(i,end='\n\n')
-
-
